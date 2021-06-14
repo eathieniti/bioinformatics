@@ -1,4 +1,9 @@
 
+
+##Tutorial for affymetrix GeneChiparrays  #
+
+####Uses cel files 
+
 library(limma)
 library(BiocManager)
 library('ChimpHumanBrainData')
